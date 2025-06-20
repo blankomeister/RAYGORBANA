@@ -11,7 +11,9 @@
 
 ## Overview! [image](https://github.com/user-attachments/assets/80991b0c-7624-4826-8ae6-098528ce4019)
 
+# My Project
 
+![Logo](images/logo.png)
 - **The Raydium AMM is an on-chain smart contract based on the “constant product” in a permissionless and decentralized manner built on the Solana blockchain.And it also shares its liquidity according to the Fibonacci sequence in the form of limit orders on [OpenBook](https://github.com/openbook-dex/program), the primary central limit order book (CLOB) of Solana**
 - **The audit process is [here](https://github.com/raydium-io/raydium-docs/tree/master/audit)**
 - **The dev document is [here](https://github.com/raydium-io/raydium-docs/tree/master/dev-resources)**
