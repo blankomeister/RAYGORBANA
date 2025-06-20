@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>raydium-amm</h1>
+  <h1>Raygorbana $GAY</h1>
 </div>
 
 ## Program Deployments
